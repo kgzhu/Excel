@@ -32,7 +32,7 @@
   
   - 我想转行——程序员转行自媒体
 - 福利
-  - [软件(请勿传播)](https://github.com/hugogoos/Excel/blob/main/docs/%E8%B5%84%E6%96%99/%E8%BD%AF%E4%BB%B6.md)
+  - [软件及破解工具(请勿传播)](https://github.com/hugogoos/Excel/blob/main/docs/%E8%B5%84%E6%96%99/%E8%BD%AF%E4%BB%B6.md)
   
 
 # 赞赏码
