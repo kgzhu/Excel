@@ -17,7 +17,7 @@
   <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAglpgOCuXZXXyifatKX4HTiUdge6AS_TLNucazVkphrg/"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="头条"></a>
   <a href="https://juejin.im/user/2330620383998413"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="掘金"></a>
   <a href="https://www.zhihu.com/people/hugogoos"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
-  <a href="https://me.csdn.net/qq_35190492"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
+  <a href="https://me.csdn.net/zhulianfang1991"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
   <a href="https://my.oschina.net/u/4767676"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="开源中国"></a>
   <a href="https://www.cnblogs.com/hugogoos"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="博客园"></a>
 </p>
