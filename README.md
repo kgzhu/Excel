@@ -31,7 +31,7 @@
 - 日常生活
   
   - 我想转行——程序员转行自媒体
-- 福利
+- 福利<a name="福利"></a>
   - [软件及破解工具(请勿传播)](https://github.com/hugogoos/Excel/blob/main/docs/%E8%B5%84%E6%96%99/%E8%BD%AF%E4%BB%B6.md)
   
 
@@ -47,6 +47,7 @@
 
 加我微信，交个朋友，还可以加入我们的Excel交流群哦。
 <a name="微信"></a>
+
 <p align="center">
     <img src="https://tva1.sinaimg.cn/large/9f276dcbgy1gk7gell6haj20e80e8aai.jpg" width="450px">
 </p>
