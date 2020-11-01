@@ -4,14 +4,32 @@
 
 我会从下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#微信)提意见(别忘记**Star**哟)。
 
+<p align="center">
+    <a href="https://github.com/hugogoos/Excel" target="_blank">
+        <img src="https://tva1.sinaimg.cn/large/9f276dcbgy1gk9y59kcvhj20c80c8abr.jpg" width=""/>
+    </a>
+</p>
+
+
+<p align="center">
+  <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/公众号-亦心Excel-lightgrey.svg" alt="公众号"></a>
+  <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAglpgOCuXZXXyifatKX4HTiUdge6AS_TLNucazVkphrg/"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="头条"></a>
+  <a href="https://juejin.im/user/2330620383998413"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="掘金"></a>
+  <a href="https://www.zhihu.com/people/hugogoos"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
+  <a href="https://me.csdn.net/qq_35190492"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
+  <a href="https://my.oschina.net/u/4767676"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="开源中国"></a>
+  <a href="https://www.cnblogs.com/hugogoos"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="博客园"></a>
+</p>
+
 # 目录(善用Ctrl+F)
 
 **注 : 没链接的是还没写**
 
 - Excel核心基础系统学习
 
-  - [总体介绍—为什么学习Excel](https://mp.weixin.qq.com/s/HVGlet7YHOgX22x_fsPg7g)
-  - 软件安装
+  - [为什么学习Excel](https://mp.weixin.qq.com/s/HVGlet7YHOgX22x_fsPg7g)
+  - [Office2019安装](https://mp.weixin.qq.com/s/9GZFBB8B7w0JA_VdoJBp9w)
   - 工作界面概述
   - 文件菜单之创建保存
   - 文件菜单之设置信息
