@@ -26,7 +26,7 @@
 
 **注 : 没链接的是还没写**
 
-- Excel核心基础系统学习
+- Excel基础
 
   - [为什么学习Excel](https://mp.weixin.qq.com/s/HVGlet7YHOgX22x_fsPg7g)
   - [Office2019安装](https://mp.weixin.qq.com/s/9GZFBB8B7w0JA_VdoJBp9w)
@@ -42,10 +42,12 @@
   - 开始菜单之剪贴板
   - 开始菜单之花式黏贴一
   - 开始菜单之花式粘贴二
-- Excel小技巧
+  
+- Excel技巧
 
-  - 名称框的妙用
+  - [名称框的妙用](https://mp.weixin.qq.com/s/S0YI_Nq3c9nze5SlkoE2zw)
   - 如何查看帮助
+  
 - 日常生活
   
   - 我想转行——程序员转行自媒体
