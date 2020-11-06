@@ -32,7 +32,7 @@
   - [Office2019安装](https://mp.weixin.qq.com/s/9GZFBB8B7w0JA_VdoJBp9w)
   - [工作界面概述](https://mp.weixin.qq.com/s/IrZXnvhrmgdXmyfpgUMYmA)
   - [文件菜单之创建保存](https://mp.weixin.qq.com/s/YvQ8gEd-ziBcVP8uZB1ovA)
-  - 文件菜单之设置信息
+  - [文件菜单之设置信息](https://mp.weixin.qq.com/s/uRwcXIeWLmCvoCzHVv0iEQ)
   - 文件菜单之设置选项
   - 文件菜单之打印共享账户
   - 开始菜单概述
