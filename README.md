@@ -33,8 +33,8 @@
   - [工作界面概述](https://mp.weixin.qq.com/s/IrZXnvhrmgdXmyfpgUMYmA)
   - [文件菜单之创建保存](https://mp.weixin.qq.com/s/YvQ8gEd-ziBcVP8uZB1ovA)
   - [文件菜单之设置信息](https://mp.weixin.qq.com/s/uRwcXIeWLmCvoCzHVv0iEQ)
-  - 文件菜单之设置选项
-  - 文件菜单之打印共享账户
+  - [文件菜单之设置选项](https://mp.weixin.qq.com/s/Gy890lX4bPLgyHgT-MbjYQ)
+  - [文件菜单之打印共享账户](https://mp.weixin.qq.com/s/pwkUP6i9aV1aNsQR96hRIQ)
   - 开始菜单概述
   - 开始菜单之意想不到的复制
   - 开始菜单之剪切
