@@ -47,7 +47,7 @@
 
   - [名称框的妙用](https://mp.weixin.qq.com/s/S0YI_Nq3c9nze5SlkoE2zw)
   - [如何查看帮助](https://mp.weixin.qq.com/s/udvURQB4LfnSBHCK7qF_UQ)
-  - 轻松搞定各种表格表头
+  - 轻松搞定各种表头
   - 常用快捷键汇总
   
 - 日常生活
