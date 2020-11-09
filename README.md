@@ -35,7 +35,7 @@
   - [文件菜单之设置信息](https://mp.weixin.qq.com/s/uRwcXIeWLmCvoCzHVv0iEQ)
   - [文件菜单之设置选项](https://mp.weixin.qq.com/s/Gy890lX4bPLgyHgT-MbjYQ)
   - [文件菜单之打印共享账户](https://mp.weixin.qq.com/s/pwkUP6i9aV1aNsQR96hRIQ)
-  - 开始菜单概述
+  - [开始菜单概述](https://mp.weixin.qq.com/s/7jCGsIoNs8eMhN_bf89o2g)
   - 开始菜单之意想不到的复制
   - 开始菜单之剪切
   - 开始菜单之格式刷六大功能
@@ -47,10 +47,14 @@
 
   - [名称框的妙用](https://mp.weixin.qq.com/s/S0YI_Nq3c9nze5SlkoE2zw)
   - [如何查看帮助](https://mp.weixin.qq.com/s/udvURQB4LfnSBHCK7qF_UQ)
+  - 轻松搞定各种表格表头
+  - 常用的快捷键汇总
   
 - 日常生活
   
   - 我想转行——程序员转行自媒体
+
+
 - 福利<a name="福利"></a>
   - [软件及破解工具(请勿传播)](https://github.com/hugogoos/Excel/blob/main/docs/%E8%B5%84%E6%96%99/%E8%BD%AF%E4%BB%B6.md)
   
