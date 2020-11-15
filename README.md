@@ -22,6 +22,8 @@
   <a href="https://www.cnblogs.com/hugogoos"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="博客园"></a>
 </p>
 
+![](https://tva1.sinaimg.cn/large/9f276dcbgy1gkpuq3oee9j20u01zxwpe.jpg)
+
 # 目录(善用Ctrl+F)
 
 **注 : 没链接的是还没写**
@@ -36,20 +38,21 @@
   - [文件菜单之设置选项](https://mp.weixin.qq.com/s/Gy890lX4bPLgyHgT-MbjYQ)
   - [文件菜单之打印共享账户](https://mp.weixin.qq.com/s/pwkUP6i9aV1aNsQR96hRIQ)
   - [开始菜单概述](https://mp.weixin.qq.com/s/7jCGsIoNs8eMhN_bf89o2g)
-  - 开始菜单之意想不到的复制
-  - 开始菜单之剪切
-  - 开始菜单之格式刷六大功能
-  - 开始菜单之剪贴板
-  - 开始菜单之花式黏贴一
+  - [如何查看帮助](https://mp.weixin.qq.com/s/udvURQB4LfnSBHCK7qF_UQ)
+  - [开始菜单之意想不到的复制](https://mp.weixin.qq.com/s/mgCDGBABpeYkIOwPXppA8A)
+  - [开始菜单之剪切的高级用法](https://mp.weixin.qq.com/s/K38kw-X3JJgrTQtDzVpoog)
+  - [开始菜单之格式刷六大功能](https://mp.weixin.qq.com/s/Qaeh4-Q7yUPq3uPUxDYdzA)
+  - [开始菜单之剪贴板](https://mp.weixin.qq.com/s/WVXEVfK9uZf5fsbVKSv3GA)
+  - [开始菜单之花式黏贴一](https://mp.weixin.qq.com/s/U1kHAHcGMXmjs47Rkecm-g)
   - 开始菜单之花式粘贴二
   
 - Excel技巧
 
   - [名称框的妙用](https://mp.weixin.qq.com/s/S0YI_Nq3c9nze5SlkoE2zw)
-  - [如何查看帮助](https://mp.weixin.qq.com/s/udvURQB4LfnSBHCK7qF_UQ)
   - 轻松搞定各种表头
-  - 常用快捷键汇总
   
+- Excel技巧
+
 - 日常生活
   
   - 我想转行——程序员转行自媒体
