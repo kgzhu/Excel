@@ -44,7 +44,7 @@
   - [开始菜单之格式刷六大功能](https://mp.weixin.qq.com/s/Qaeh4-Q7yUPq3uPUxDYdzA)
   - [开始菜单之剪贴板](https://mp.weixin.qq.com/s/WVXEVfK9uZf5fsbVKSv3GA)
   - [开始菜单之花式黏贴一](https://mp.weixin.qq.com/s/U1kHAHcGMXmjs47Rkecm-g)
-  - 开始菜单之花式粘贴二
+  - [开始菜单之花式粘贴二](https://mp.weixin.qq.com/s/vosZpGK81Tw5YrZU3cCr7Q)
   
 - Excel技巧
 
