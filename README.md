@@ -22,7 +22,7 @@
   <a href="https://www.cnblogs.com/hugogoos"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="博客园"></a>
 </p>
 
-![](https://tva1.sinaimg.cn/large/9f276dcbgy1gkpuq3oee9j20u01zxwpe.jpg)
+![](https://tva1.sinaimg.cn/large/9f276dcbgy1gks8opj3wfj20u039hh4j.jpg)
 
 # 目录(善用Ctrl+F)
 
@@ -50,12 +50,16 @@
 
   - [名称框的妙用](https://mp.weixin.qq.com/s/S0YI_Nq3c9nze5SlkoE2zw)
   - 轻松搞定各种表头
+  - Excel也能P图抠图
+  - 如何对手机号码进行保护
+  - 如何在Excel中输入√和×
+  - 如何快速删除空行
   
-- Excel技巧
+- Excel快捷键
 
-- 日常生活
+- 自媒人生
   
-  - 我想转行——程序员转行自媒体
+  - [我想转行——程序员转行自媒体](https://mp.weixin.qq.com/s/9jvzINxsCkUJXE9EOYGNaQ)
 
 
 - 福利<a name="福利"></a>
