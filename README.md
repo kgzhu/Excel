@@ -49,17 +49,25 @@
 - Excel技巧
 
   - [名称框的妙用](https://mp.weixin.qq.com/s/S0YI_Nq3c9nze5SlkoE2zw)
-  - 轻松搞定各种表头
-  - Excel也能P图抠图
-  - 如何对手机号码进行保护
-  - 如何在Excel中输入√和×
-  - 如何快速删除空行
+  - [轻松搞定各种表头](https://mp.weixin.qq.com/s/JuBcMZECBsJHeGqaxLBgCg)
+  - [Excel也能P图抠图](https://mp.weixin.qq.com/s/4qH7GiR9q-tBXRKsV_-REA)
+  - [如何对手机号码进行保护](https://mp.weixin.qq.com/s/nr9GTBbNafw5EEPag0kDew)
+  - [如何在Excel中输入√和×](https://mp.weixin.qq.com/s/N5PFqw1xcH2_EjfwraBIbw)
+  - [如何快速删除空行](https://mp.weixin.qq.com/s/HMFD7JleIWCn-s5Ufe2DVA)
+  - [一劳永逸制作自动更新序号](https://mp.weixin.qq.com/s/vESwnElxiDiDCOT0JrXyQQ)
+  - [轻松搞定多级联动下拉列表](https://mp.weixin.qq.com/s/mxRnIOu_gF44ktVVtNHTEQ)
   
 - Excel快捷键
+  
+  - [神奇而强大的智能填充Ctrl+E](https://mp.weixin.qq.com/s/O0RBkYYg5oOxxAe_7utYyA)
 
 - 自媒人生
   
   - [我想转行——程序员转行自媒体](https://mp.weixin.qq.com/s/9jvzINxsCkUJXE9EOYGNaQ)
+
+- 日常生活
+  
+  - [牙疼，凉凉](https://mp.weixin.qq.com/s/Yv2K8Cw142RPJERu_a5DVw)
 
 
 - 福利<a name="福利"></a>
