@@ -47,7 +47,7 @@
   - [开始菜单之花式粘贴二](https://mp.weixin.qq.com/s/vosZpGK81Tw5YrZU3cCr7Q)
   - [开始菜单之花式粘贴三](https://mp.weixin.qq.com/s/BptRiMZHjnyXUSB5CL9zyg)
   - [开始菜单之花式粘贴四](https://mp.weixin.qq.com/s/LRTd8zGQqEt1CjNbKYspFQ)
-  - [开始菜单之字体也能出奇迹]
+  - [开始菜单之字体华丽转身]
   
 - Excel技巧
 
@@ -88,8 +88,8 @@
 
 - 福利<a name="福利"></a>
   - [软件及破解工具(请勿传播)](https://github.com/hugogoos/Excel/blob/main/docs/%E8%B5%84%E6%96%99/%E8%BD%AF%E4%BB%B6.md)
-  - [电子书(请勿传播)]
-  - [课件资料(持续更新)]
+  - [电子书(请勿传播)](https://github.com/hugogoos/Excel/blob/main/docs/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E4%B9%A6.md)
+  - [课件资料(持续更新)](https://github.com/hugogoos/Excel/blob/main/docs/%E8%B5%84%E6%96%99/%E8%B5%84%E6%96%99.md)
   
 
 # 赞赏码
