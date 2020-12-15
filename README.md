@@ -45,6 +45,9 @@
   - [开始菜单之剪贴板](https://mp.weixin.qq.com/s/WVXEVfK9uZf5fsbVKSv3GA)
   - [开始菜单之花式黏贴一](https://mp.weixin.qq.com/s/U1kHAHcGMXmjs47Rkecm-g)
   - [开始菜单之花式粘贴二](https://mp.weixin.qq.com/s/vosZpGK81Tw5YrZU3cCr7Q)
+  - [开始菜单之花式粘贴三](https://mp.weixin.qq.com/s/BptRiMZHjnyXUSB5CL9zyg)
+  - [开始菜单之花式粘贴四](https://mp.weixin.qq.com/s/LRTd8zGQqEt1CjNbKYspFQ)
+  - [开始菜单之字体也能出奇迹]
   
 - Excel技巧
 
@@ -56,10 +59,23 @@
   - [如何快速删除空行](https://mp.weixin.qq.com/s/HMFD7JleIWCn-s5Ufe2DVA)
   - [一劳永逸制作自动更新序号](https://mp.weixin.qq.com/s/vESwnElxiDiDCOT0JrXyQQ)
   - [轻松搞定多级联动下拉列表](https://mp.weixin.qq.com/s/mxRnIOu_gF44ktVVtNHTEQ)
+  - [如何从重复行中取某一行](https://mp.weixin.qq.com/s/N5bUP6HMu6kShh89Bk7kgA)
+  - [快速插入空行技巧大集合](https://mp.weixin.qq.com/s/MUiTvRCXuuPJKKmAABrLiA)
+  - [超实用的字符串拆分小技巧](https://mp.weixin.qq.com/s/qpF3JrGPATs2hFbmftQi-A)
+  - [自动标记颜色条件格式的妙用](https://mp.weixin.qq.com/s/6t1ndxTm9fiuvW7H9vZqxg)
+  - [瞬间吸引眼球的WIFI图表](https://mp.weixin.qq.com/s/ybC3vNodiPRTxvEqCqNviw)
+  - [两招轻松搞定汉字转拼音](https://mp.weixin.qq.com/s/q4ybmN3OQXRGvNyw4v5LKQ)
+  - [一个公式实现中英文翻译](https://mp.weixin.qq.com/s/aC__6sZPDFx1dZLBl5AnVg)
   
 - Excel快捷键
   
   - [神奇而强大的智能填充Ctrl+E](https://mp.weixin.qq.com/s/O0RBkYYg5oOxxAe_7utYyA)
+  - [Shift键提高工作效率小妙招]
+  
+- Excel游戏
+  
+  - [制作数字炸弹小游戏](https://mp.weixin.qq.com/s/uAD3bZDUc355bmwdJwtCRQ)
+  - [制作抽奖小游戏]
 
 - 自媒人生
   
@@ -72,6 +88,8 @@
 
 - 福利<a name="福利"></a>
   - [软件及破解工具(请勿传播)](https://github.com/hugogoos/Excel/blob/main/docs/%E8%B5%84%E6%96%99/%E8%BD%AF%E4%BB%B6.md)
+  - [电子书(请勿传播)]
+  - [课件资料(持续更新)]
   
 
 # 赞赏码
