@@ -47,7 +47,9 @@
   - [开始菜单之花式粘贴二](https://mp.weixin.qq.com/s/vosZpGK81Tw5YrZU3cCr7Q)
   - [开始菜单之花式粘贴三](https://mp.weixin.qq.com/s/BptRiMZHjnyXUSB5CL9zyg)
   - [开始菜单之花式粘贴四](https://mp.weixin.qq.com/s/LRTd8zGQqEt1CjNbKYspFQ)
-  - [开始菜单之字体华丽转身]
+  - [开始菜单之字体华丽转身](https://mp.weixin.qq.com/s/UrJFN5i_NE1SMJKNqezpLA)
+  - [开始菜单之对齐方式，那些被遗忘的实用功能](https://mp.weixin.qq.com/s/w27soCGdZMTUPTZGTET9Wg)
+  - [开始菜单之数字格式，这些基础知识还记得吗？](https://mp.weixin.qq.com/s/Hlv17t1Two5PiGv46WjYdg)
   
 - Excel技巧
 
@@ -66,20 +68,37 @@
   - [瞬间吸引眼球的WIFI图表](https://mp.weixin.qq.com/s/ybC3vNodiPRTxvEqCqNviw)
   - [两招轻松搞定汉字转拼音](https://mp.weixin.qq.com/s/q4ybmN3OQXRGvNyw4v5LKQ)
   - [一个公式实现中英文翻译](https://mp.weixin.qq.com/s/aC__6sZPDFx1dZLBl5AnVg)
+  - [巧用Excel笔画排序，实现计算汉字笔画数](https://mp.weixin.qq.com/s/fYGNPfbW0eqT172hHYu8NQ)
+  - [制作这样的Excel注水图表，让老板另眼相看，坐等升职加薪](https://mp.weixin.qq.com/s/fq3_XaR_nA4nIViMT5YQQA)
+  - [Excel中身份证号码如何分段显示，难倒小编，有什么好方法吗？](https://mp.weixin.qq.com/s/M0RE4tkMbQ7DAApaIQJzqw)
+  - [Excel中如何防止重复输入，这两个小妙招学会了吗？](https://mp.weixin.qq.com/s/lpY5xjLCK3LOnthsLJ_vVA)
+  - [还在为Excel合并单元格导致的各种问题烦恼吗？这里一起解决](https://mp.weixin.qq.com/s/shGRHPwsulKTSbBNEGBJXQ)
+  - [Excel中金额小写转大写，职场小技能，值得学习](https://mp.weixin.qq.com/s/Z0sXpfnrSCpjIm9CL7wgwA)
+  - [如何防止Excel数据录入出错，巧用数据验证，实现自动限制录入](https://mp.weixin.qq.com/s/1EMH09AhRRS2bjaYsGMlTg)
+  - [如何用Excel制作工作计划，跟踪任务进度，快来学习吧](https://mp.weixin.qq.com/s/jmlu1BGisVvU-tzVGxF6aQ)
+  - [如何在Excel中分组排名？两个公式轻松搞定！](https://mp.weixin.qq.com/s/qlZ1-M7SMESm-l0lCQHIpg)
+  - [Excel中如何按单元格颜色求和，这五种牛批的方法，值得学习](https://mp.weixin.qq.com/s/h71pBgn6lWnWyTnAYkXMgw)
+  - [自动添加单元格边框，Excel有妙招，两个技巧任意选](https://mp.weixin.qq.com/s/KQ82VXEbCzfqyMp6-fV5fw)
   
 - Excel快捷键
   
   - [神奇而强大的智能填充Ctrl+E](https://mp.weixin.qq.com/s/O0RBkYYg5oOxxAe_7utYyA)
-  - [Shift键提高工作效率小妙招]
+  - [Excel高手都会的Shift快捷键7个用法，让你工作效率翻倍](https://mp.weixin.qq.com/s/Bs5k2sg5U5vX83hxJI1JOw)
   
 - Excel游戏
   
   - [制作数字炸弹小游戏](https://mp.weixin.qq.com/s/uAD3bZDUc355bmwdJwtCRQ)
-  - [制作抽奖小游戏]
+  - [2020年会必备，Excel轻松制作抽奖小游戏](https://mp.weixin.qq.com/s/YUJxDaWVLbYkpPpO1hgU0Q)
+  
+- Excel答粉丝问
+  
+  - [批量将单元格内容转为批注](https://mp.weixin.qq.com/s/X784Kp0DvxmHfKjtGYvkPA)
+  - [Excel数据透视表只能求和运算？快来学习求差运算小技巧](https://mp.weixin.qq.com/s/79iLf4JjghQecUwjVoevrw)
 
 - 自媒人生
   
   - [我想转行——程序员转行自媒体](https://mp.weixin.qq.com/s/9jvzINxsCkUJXE9EOYGNaQ)
+  - [2021，我来了](https://mp.weixin.qq.com/s/2Cln7NGBXSQCBzzUxAXavw)
 
 - 日常生活
   
@@ -114,3 +133,4 @@
 关注我，这里可以最先看到我的原创文章哦。
 <a name="公众号"></a>
 ![](https://tva1.sinaimg.cn/large/9f276dcbgy1gk7g7uhxgcj215u0u01is.jpg)
+
